@@ -14,7 +14,7 @@ This project implements the PaliGemma architecture for vision-language tasks inc
 
 ## Acknowledgments
 
-This implementation follows [Umar Jamil's PaliGemma tutorial](https://github.com/hkproj/pytorch-paligemma) and his [detailed video walkthrough](https://www.youtube.com/watch?v=vAmKB7iPkWw). The model architecture (`paligemma.py`, `siglip.py`, `gemma.py`) and input processing pipeline were implemented by coding along with his lecture.
+This implementation follows [Umar Jamil's PaliGemma tutorial](https://github.com/hkproj/pytorch-paligemma) and his [detailed video walkthrough](https://www.youtube.com/watch?v=vAmKB7iPkWw). The model architecture and inference pipeline were implemented by coding along with his lecture.
 
 ## My Contributions
 
