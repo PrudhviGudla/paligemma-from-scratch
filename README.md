@@ -152,9 +152,8 @@ Multiple objects are separated by semicolons with spaces: `detect car ; person ;
 ```
 paligemma-from-scratch/
 ├── src/
-│   ├── paligemma.py           # Main model architecture
+│   ├── paligemma.py           # Main model architecture including the gemma language decoder
 │   ├── siglip.py              # Vision encoder
-│   ├── gemma.py               # Language decoder
 │   ├── input_processor.py     # Image preprocessing and tokenization
 │   ├── output_processor.py    # Detection/segmentation parsing
 │   └── inference.py           # Inference pipeline
